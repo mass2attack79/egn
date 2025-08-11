@@ -3,6 +3,8 @@
 
 ЕГН Четец ("the App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information.
 
+The App, as well as the information contained therein, is not official and is not affiliated in any way with government departments and organizations.
+
 ## Information We Collect
 The App doesn't collect any data. The App doesn't require Internet connection and doesn't share any data to third parties.
 
